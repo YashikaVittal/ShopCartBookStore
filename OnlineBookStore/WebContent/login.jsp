@@ -180,13 +180,13 @@ Body Section
 			  <div class="control-group">
 				<label class="control-label" for="inputEmail">Email</label>
 				<div class="controls">
-				  <input class="span3" name ="email" type="text" placeholder="Email">
+				  <input class="span3" name ="email" type="text" placeholder="Email" required>
 				</div>
 			  </div>
 			  <div class="control-group">
 				<label class="control-label" for="inputPassword">Password</label>
 				<div class="controls">
-				  <input type="password" name="password" class="span3" placeholder="Password">
+				  <input type="password" name="password" class="span3" placeholder="Password" required>
 				</div>
 			  </div>
 			  <div class="control-group">
